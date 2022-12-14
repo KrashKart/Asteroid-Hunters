@@ -1,0 +1,9 @@
+Icons from flaticons.com
+
+Background from freepik.com
+
+Code, concept, and interface was inspired by this freeCodeCamp video on a similar topic:
+https://www.youtube.com/watch?v=FfWpgLFMI7w&t=3126s&ab_channel=freeCodeCamp.org
+
+And the title screen was inspired by this blog post:
+https://programmingpixels.com/handling-a-title-screen-game-flow-and-buttons-in-pygame.html
